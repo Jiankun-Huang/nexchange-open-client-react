@@ -8,7 +8,7 @@ const Team = () => (
         <div id="team-description" className="col-xs-12">
           <h3>About Us</h3>
 
-          <p>Nexchange is a fast, reliable and fully transparent cryptocurrency exchange built by crypto enthusiasts, for crypto enthusiasts.</p>
+          <p>Jackchange is a fast, reliable and fully transparent cryptocurrency exchange built by crypto enthusiasts, for crypto enthusiasts.</p>
           <p>We are a group of multi-national, multi-disciplinary cryptocurrency professionals.</p>
           <p>Our team came together to make this platform after seeing firsthand the need for a fast and reliable exchange on the crypto market.</p>
           <p>We pride ourselves on total transparency: Everything is viewable through our API, starting from order lists and ending with our coin reserves. </p>
